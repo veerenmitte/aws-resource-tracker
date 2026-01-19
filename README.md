@@ -1,6 +1,6 @@
 # AWS Resource Tracker (Shell Script)
 
-## 📌 Overview
+## Overview
 AWS environments can quickly grow with multiple services running across regions.  
 This project provides a **simple shell-based automation** to track commonly used AWS resources and gain visibility into the AWS account.
 
